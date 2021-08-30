@@ -1,0 +1,19 @@
+{
+  "name": "farm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiagomezv612/farm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sofiagomezv612/farm/issues"
+  },
+  "homepage": "https://github.com/sofiagomezv612/farm#readme",
+  "description": ""
+}
